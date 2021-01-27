@@ -92,6 +92,7 @@ p {
 /* features */
 
 #features {
+  background-color: white;
   position: relative;
   z-index: 1;
 }
